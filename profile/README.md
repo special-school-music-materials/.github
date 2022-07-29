@@ -1,4 +1,8 @@
-## Hi there 👋
+## 特別支援学校向け 音楽教材Webアプリケーション開発プロジェクト
+Made in National Institute of Technology, Ichinoseki College
+
+### 🙋‍ About
+特別支援学校の生徒さんの利用を想定した音楽教材アプリを開発するためのOrganization
 
 <!--
 
